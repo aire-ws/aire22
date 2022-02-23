@@ -1,0 +1,383 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AIRE'22: Ninth International Workshop on Artificial Intelligence and Requirements Engineering</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/foundation-icons.css" />
+    <link rel="stylesheet" href="css/aire.css" />
+    <script src="js/vendor/modernizr.js"></script>
+    <style>
+      .schedule {
+	  font-size: 10pt;
+	  margin-top: 0;
+  	  margin-bottom: 8px;
+  	  line-height: 120%;
+      }
+      .last {
+  	  margin-bottom: 1.5em;
+      }
+      .time-range {
+	  font-size: 10pt;
+	  text-align: right;
+      }
+      @media only screen and (min-width: 641px) {
+	  .time-range {
+	      font-size: 10pt;
+	  }
+      }
+    </style>
+  </head>
+  <body>
+  
+    <nav class="row top-bar" data-topbar style="margin-bottom:25px;">
+      <ul class="title-area">
+    	<li class="name">
+      	  <h1><a href="index.html"><i class="fi-home"></i>&nbsp;&nbsp;AIRE'22</a></h1>
+    	</li>
+	<li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+      </ul>
+
+      <section class="top-bar-section">
+    	<ul class="right">
+      	  <li class="active"><a href="paper.html"><i class="fi-page-edit"></i>&nbsp;&nbsp;Call for Papers</a></li>
+      	  <li class="active"><a href="program.html"><i class="fi-projection-screen"></i>&nbsp;&nbsp;Program</a></li>
+      	  <li class="active"><a href="organization.html"><i class="fi-torsos-all"></i>&nbsp;&nbsp;Organization</a></li>
+      	  <li class="has-dropdown"><a href="#"><i class="fi-link"></i>&nbsp;&nbsp;History</a>
+            <ul class="dropdown">
+              <li class="active"><a href="http://sarec.nd.edu/ai4re/index.html" target="_blank">AIRE'14</a></li>
+              <li class="active"><a href="http://sarec.nd.edu/aire15/index.html" target="_blank">AIRE'15</a></li>
+	      <li class="active"><a href="https://aire-ws.github.io/aire16/" target="_blank">AIRE'16</a></li>
+	      <li class="active"><a href="https://aire-ws.github.io/aire17/" target="_blank">AIRE'17</a></li>
+	      <li class="active"><a href="https://aire-ws.github.io/aire18/" target="_blank">AIRE'18</a></li>
+	      <li class="active"><a href="https://aire-ws.github.io/aire19/" target="_blank">AIRE'19</a></li>
+		  <li class="active"><a href="https://aire-ws.github.io/aire20/" target="_blank">AIRE'20</a></li>
+		  <li class="active"><a href="https://aire-ws.github.io/aire21/" target="_blank">AIRE'21</a></li>
+	    </ul>
+      	  </li>
+    	</ul>
+      </section>
+    </nav>
+    
+    <div class="row">
+      <div class="large-4 medium-7 columns">
+	<img src="img/AIRE_2022.png" alt="AIRE logo" />
+      </div>
+      
+      <div class="large-8 medium-8 columns">
+
+	<h1 id="program">Program</h1>
+	
+	<p>Registration: <a href="https://conf.researchr.org/attending/RE-2022/registration">https://conf.researchr.org/attending/RE-2022/registration</a></p>
+
+	<!--
+	
+	<p>The following is program to be held on Monday Sept 20th, 2021, 8:00-13:00 (Easter Time, US and Canada), 14:00-19:00 (Central European Time), 13:00-18:00 (British Summer Time).</p> 
+	
+	<!--
+	<p class="header"><strong>Session 1:</strong> Requirements Representation and Knowledge <br><em>Chair: F. Başak Aydemir</em></p>
+	<div class="row">		
+	<div class="small-3 columns"><p class="time-range schedule">14:00 - 11:05/p></div>
+	-->
+
+	<p class="header"><strong>Session 1</strong><br><!--<em>Chair: F. Başak Aydemir</em>--></p>
+	<!--<div class="row">-->
+	<div class="small-3 columns"><p class="time-range schedule">(EDT) 08:00 - 08:10</p></div>
+		<div class="small-9 columns">
+			<p class="schedule">Welcome from the Organizers<br/>
+			<em>Nelly Bencomo, Rachel Harrison, Daniel Rodriguez</em><br>
+		</div>
+
+		<div class="small-3 columns"><p class="time-range schedule">08:10 - 09:10</p></div>
+
+		<!--12--><div class="small-9 columns">
+			<p class="schedule">Is BERT the New Silver Bullet? - An Empirical Investigation of Feature Dependency Classication in FOSS<br/>
+				<em>Gouri Deshpande, Behnaz Sheiki, Saipreetham Chakka, Dylan Zotegouon, Guenther Ruhe and Navid Masahati</em><br/>
+				<!---Discussant: Tong Li<br/>-->  
+			<!--</div>-->
+
+		<!--7<div class="small-9 columns">-->
+			<p class="schedule">Knowledge-based Sense Disambiguation of Multiword Expressions in Requirements Documents<br/>
+			<em>Tobias Hey, Jan Keim and Walter F. Tichy</em><br/>
+			<!--Discussant: Tong Li<br/><br/>-->  
+		<!--</div>-->
+
+		<!--4<div class="small-9 columns">-->
+			<p class="schedule">CATE: CAusality Tree Extractor from Natural Language Requirements<br/>
+				<em>Noah Jadallah, Jannik Fischbach, Julian Frattini and Andreas Vogelsang</em><br/>
+				<!--Discussant: Tong Li<br/>-->  
+		<!--</div>-->
+
+		<!--10<div class="small-9 columns">-->
+			<p class="schedule">Transfer Learning for Mining Feature Requests and Bug Reports from Tweets and App Store Reviews<br/>
+				<em>Pablo Restrepo Henao, Jannik Fischbach, Dominik Spies, Julian Frattini and Andreas Vogelsang</em><br/>
+				<!--Discussant: Tong Li<br/>-->  
+		</div>			
+
+	
+	<p class="header"><strong>Session 2</strong><br><!--<em>Chair: F. Başak Aydemir</em>--></p>
+	<!--<div class="row">-->	
+	<div class="small-3 columns"><p class="time-range schedule">09:20 - 10:20</p></div>
+
+		<!--2--><div class="small-9 columns">
+		<p class="schedule">Evaluating unsupervised text embeddings onsoftware user feedback<br/>
+			<em>Peter Devine, Yun Sing Koh and Kelly Blincoe</em><br/>
+			<!--Discussant: Tong Li<br/>-->  
+		<!--</div>-->
+
+		<!--18<div class="small-9 columns">-->
+			<p class="schedule">Automated Identification and Deconstruction of Penalty Clauses in Regulation<br/>
+			<em>Preethu Rose Anish, Pratik Sonar, Prashant Lawhatre and Smita Ghaisas</em><br/>
+			<!--Discussant: Tong Li<br/>-->  
+		<!--</div>-->
+			
+		<!--5<div class="small-9 columns">-->
+			<p class="schedule">Machine Learning-based Estimation of Story Points in Agile Development: Industrial Experience and Lessons Learned<br/>
+				<em>Macarious Abadeer and Mehrdad Sabetzadeh</em><br/>
+				<!--Discussant: Tong Li<br/>-->  
+		<!--</div>-->
+
+		<!--9<div class="small-9 columns">-->
+			<p class="schedule">Machine Learning in Requirements Engineering: A Mapping Study<br/>
+				<em>Kareshna Zamani, Didar Zowghi and Chetan Arora</em><br/>
+				<!--Discussant: Tong Li<br/>-->  
+		</div>			
+
+
+	<p class="header"><strong>Session 3</strong> Panel <br><!--<em>Chair: F. Başak Aydemir</em>--></p>
+	<!--<div class="row">-->		
+	<div class="small-3 columns"><p class="time-range schedule">10:30 - 11:30</p></div>
+
+
+		<!--Panel--><div class="small-9 columns">
+			<p class="schedule">Artificial Intelligence and Requirement Engineering: Challenges and Opportunities<br/>
+				Panelists: <em>Tim Menzies, Jin Guo and Hans-Martin Heyn</em><br/>
+				<!--Discussant: Tong Li<br/>-->  
+		</div>
+
+	<p class="header"><strong>Session 4</strong> <br><!--<em>Chair: F. Başak Aydemir</em>--></p>
+	<!--<div class="row">-->		
+	<div class="small-3 columns"><p class="time-range schedule">11:40 - 12:40</p></div>
+
+		<!--11--><div class="small-9 columns">
+			<p class="schedule">Issue Link Label Recovery and Prediction for Open Source Software<br/>
+				<em>Alexander Nicholson and Jin L.C. Guo</em><br/>
+				<!---Discussant: Tong Li<br/>-->  
+		<!--</div>-->		
+
+		<!--3<div class="small-9 columns">-->
+			<p class="schedule">Fine-Grained Causality Extraction From Natural Language Requirements Using Recursive Neural Tensor Networks<br/>
+				<em>Jannik Fischbach, Tobias Springer, Julian Frattini, Henning Femmer, Andreas Vogelsang and Daniel Mendez</em><br/>
+				<!---Discussant: Tong Li<br/>-->  
+			<!--</div>-->
+
+		<!--8<div class="small-9 columns">-->
+			<p class="schedule">Towards Technology Acceptance: a Bayesian Network of soft requirements, the case of the NHS COVID-19 Test and Trace App<br/>
+			<em>Luis Hernan Garcia Paucar, Nelly Bencomo and Alistair Sutcliffe</em><br/>
+			<!---Discussant: Tong Li<br/>-->  
+		<!--</div>-->
+
+		<!--13<div class="small-9 columns">-->
+			<p class="schedule">Detecting Requirements Smells With Deep Learning: Experiences, Challenges and Future Work<br/>
+			<em>Mohammad Kasra Habib, Stefan Wagner and Daniel Graziotin</em><br/>
+			<!--Discussant: Tong Li<br/>-->  
+		</div>
+
+	
+	<p class="header"><strong>Closing Plenary Session</strong> <br><!--<em>Chair: F. Başak Aydemir</em>--></p>
+	<!--<div class="row">-->			
+	<div class="small-3 columns"><p class="time-range schedule">12:40 - 13:00</p></div>
+		
+		<!--Plenary--><div class="small-9 columns">
+			<p class="schedule">Closing Plenary Session<br/>
+				<!--<em>All participants</em><br/>-->
+				<!--Discussant: Tong Li<br/>-->  
+			</div>
+	-->
+
+
+
+
+	<!---	 
+	<p>The workshop will take place on <emph>Tuesday, September 1, 2020</emph>. The presentation slides are avaliable <a href="https://drive.google.com/drive/folders/10thjJ85Vsu5hZIV68ZyKQI80Lvf58gLG?usp=sharing">here</a>. </p>
+
+	<p class="header"><strong>Session 1:</strong> Requirements Representation and Knowledge <br><em>Chair: F. Başak Aydemir</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">10:30 - 10:40</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Welcome from the Organizers<br/>
+	      <em>F. Başak Aydemir, Nelly Bencomo, Alessio Ferrari, and Mona Rahimi</em><br>
+	  </div>
+	  
+	  <div class="small-3 columns"><p class="time-range schedule">10:40 - 11:05</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Towards a Semantic Representation for Functional Software Requirements<br/>
+	      <em><u>Riad Sonbol</u>, Ghaida Rebdawi and Nada Ghneim</em><br/>
+	      Discussant: Tong Li<br/>  
+	  </div>
+	  
+	  <div class="small-3 columns"><p class="time-range schedule">11:05  - 11:30</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Identification and Classification of Architecturally Significant Functional Requirements<br/>
+	      <em><u>Ranit Chatterjee</u>, Abdul Ahmed and Preethu Rose Anish</em> <br/>
+	      Discussant: Michael Unterkalmsteiner<br/>
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">11:30  - 11:45</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">TT-RecS: The Taxonomic Trace Recommender System<br/>
+	      <em><u>Michael Unterkalmsteiner</u></em><br>
+	      Discussant: Ranit Chatterjee
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">11:45  - 12:00</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">An Extended Knowledge Representation Learning Approach for Context-based Traceability Link Recovery: Extended Abstract<br/>
+	        <em><u>Guoshuai Zhao</u>, Tong Li and Zhen Yang</em><br>
+	      Discussant: Riad Sonbol<br/>
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">12:00 - 13:00</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Break<br/>
+	  </div>
+	</div>
+
+	<p class="header"><strong>Session 2:</strong> Requirements for Machine Learning<br><em>Chair: Mona Rahimi</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">13:00 - 13:25</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">SENET: A Semantic Web for Supporting Automation of Software Engineering Tasks<br/>
+	      <em>Yalin Liu, <u>Jinfeng Lin</u>, Michael Vierhauser, Jane Cleland-Huang, Sugandha Lohar and Jin Guo</em><br>
+	      Discussant: Boyue Caroline Hu<br/>
+	  </div>
+	  
+	  <div class="small-3 columns"><p class="time-range schedule">13:25 - 13:50</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Towards an Extended Requirements Problem Formulation for Superintelligence Safety<br/>
+	      <em><u>Hermann Kaindl</u> and Jonas Ferdigg</em><br/>
+	      Discussant: Deeksha Arya<br/>
+	  </div>
+	  
+	  <div class="small-3 columns"><p class="time-range schedule">13:50 - 14:15</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Traceability Network Analysis: A Case Study of Links In Issue Tracking Systems<br/>
+	      <em>Alexander Nicholson, <u>Deeksha Arya</u> and Jin L.C. Guo</em><br>
+	      Discussant: Hermann Kaindl
+	  </div>
+
+	   <div class="small-3 columns"><p class="time-range schedule">14:15 - 14:30</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule"> Towards Requirements Specification for Machine-learned Perception Based on Human Performance<br/>
+	      <em><u>Boyue Caroline Hu</u>, Rick Salay, Krzysztof Czarnecki, Mona Rahimi, Gehan Selim and Marsha Chechik</em><br>
+	      Discussant: Jinfeng Lin<br/>
+	  </div>
+	  <div class="small-3 columns"><p class="time-range schedule">14:30 - 15:00</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Break<br/>
+	  </div>
+	</div>
+
+	<p class="header"><strong>Session 3:</strong> Keynote and Natural Language Processing <br><em>Chair: Alessio Ferrari</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">15:00 - 16:00</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule"><strong>Keynote: </strong>AI for RE: Experience from Industry Collaborations and Implications for RE Education<br/>
+	      <em>Mehrdad Sabetzadeh</em><br>
+	  </div>
+	  
+	  <div class="small-3 columns"><p class="time-range schedule">16:00 - 16:25</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Topic Modeling on User Stories using Word Mover's Distance<br/>
+	      <em><u>Kim Julian Gülle</u>, Nicholas Ford, Patrick Ebel, Florian Brokhausen and Andreas Vogelsang</em><br>
+	      Discussant: Harshitha Challa
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">16:25 - 17:00</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Break<br/>
+	  </div>
+	</div>
+
+	<p class="header"><strong>Session 4:</strong> Machine Learning for Requirements <br><em>Chair: Nelly Bencomo</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">17:00 - 17:25</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Faulty Requirements Made Valuable: On the Role of Data Quality in Deep Learning<br/>
+	      <em><u>Harshitha Challa</u>, Nan Niu and Reese Johnson</em><br>
+	      Discussant: Zahra Khoshmanesh<br/>
+	  </div>
+	  
+	  <div class="small-3 columns"><p class="time-range schedule">17:25 - 17:50</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Analysis of Compatibility in Open Source Android Mobile Apps<br/>
+	      <em><u>Debjyoti Mukherjee</u> and Guenther Ruhe</em><br>
+	      Discussant: Jane Hayes<br/>
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">17:50 - 18:05</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">CEREC: Causality Extraction from Requirements Artifacts<br/>
+	      <em><u>Julian Frattini</u></em></br>
+	      Discussant: Debjyoti Mukherjee 
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">18:05 - 18:20</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Towards Improved Network Security Requirements and Policy: Domain-Specific Completeness Analysis via Topic Modeling<br/>
+	      <em><u>Jane Hayes</u>, Alexander Dekhtyar, Jared Payne, Emily Essex, Kelsey Cole, Joseph Alverson, Dongfeng Fang and Grant Bernosky</em></br>
+	      Discussant: Julian Frattini<br/>
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">18:20 - 18:35</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Does Link Prediction Help Find Feature Interactions in Software Product Lines?<br/>
+	      <em><u>Seyedehzahra Khoshmanesh</u> and Robyn Lutz</em></br>
+	      Discussant: Harshitha Challa<br/>
+	  </div>
+
+	  <div class="small-3 columns"><p class="time-range schedule">18:35 - 18:45</p></div>
+	  <div class="small-9 columns">
+	    <p class="schedule">Wrap-up<br/>
+	      <em></em></br>
+	  </div>
+
+	  
+	</div>
+
+	<hr>
+
+	<br>
+
+	<h1 id="keynote">Keynote</h1>
+	
+	<div class="small-9 columns"> 
+	  <p class="header"><strong>Speaker: Mehrdad Sabetzadeh</strong></p>			
+	  <p><strong>Title:</strong> AI for RE: Experience from Industry Collaborations and Implications for RE Education</p>
+	</div>
+	<div class="small-3 columns"><img src="img/sebatzadeh.jpg" width="100%"/></div>
+	
+	<p style="text-align: justify"><strong>Abstract:</strong> 
+	Artificial intelligence (AI), particularly natural language processing (NLP) and machine learning (ML), are increasingly used for bringing automation to complex requirements analysis tasks. I will present results from some recent industry-focused research projects, where we have employed NLP, ML or a combination thereof in order to provide computerized assistance for RE activities. I will use these projects as a backdrop for discussing lessons learned and challenges in AI4RE. I will also reflect on the technical skills that we needed in these projects, arguing that, in addition to AI techniques, empirical research methods, notably qualitative coding, played an important role in solution development. The usefulness of these skills is not strictly limited to RE research. Because of the context-dependent nature of many RE problems, and given the strong push by many industry sectors for AI-based automation, practicing engineers too need to be able to build AI4RE solutions in-house. I am hoping that the talk will foster discussion about what constitutes core RE skills in relation to automation and how the rapid advances in AI will impact the future of RE education.
+	</p>
+	
+	<p style="text-align: justify"><strong>About the speaker:</strong>  
+	  Mehrdad Sabetzadeh is an Associate Professor at the School of Electrical Engineering and Computer Science (EECS) of the University of Ottawa and a part-time faculty member at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg. Previously, he worked as a permanent member of the research staff at Simula Research Laboratory (Norway), and as an NSERC postdoctoral fellow at University College London (UK). His main research area is software engineering with specific interests in requirements engineering, model-based development, and legal compliance. A key aspect of his research is the application of artificial intelligence techniques, including natural language processing, machine learning and metaheuristic search, to software engineering problems. He is very passionate about fostering stronger ties between academia and industry. He has conducted most of his research in close collaboration with industry partners. In the past ten years, he has worked with over 20 partners in various sectors, including government, finance, legal services, telecommunications, maritime, energy, railways, and automotive. During this period, he has been Principal Investigator (PI) or co-PI for industry-oriented research projects worth more than C$6 million. </p>
+
+
+	   ---->
+
+    <hr>
+    <footer>
+      &copy; 2021 Workshop on Artificial Intelligence and Requirements Engineering. All rights reserved.
+    </footer>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
+ 
