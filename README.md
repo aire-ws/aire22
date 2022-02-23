@@ -1,2 +1,2 @@
 # aire22
-Website for the AIRE 2022 workshop
+Ninth International Workshop on Artificial Intelligence and Requirements Engineering 
