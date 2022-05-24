@@ -72,18 +72,29 @@
 	
 	<p>Registration: <a href="https://conf.researchr.org/attending/RE-2022/registration">https://conf.researchr.org/attending/RE-2022/registration</a></p>
 	
-	<p> Detailed program will follow soon. </p>
+	<p><strong>The workshop is currently planned to occur on Tuesday, 16th August 2022. </strong></p>
+	<p>The times in the following program are in Melbourne(!) time (UTC-10).</p>
 
+
+<p class="header"><strong>Session 1:</strong>  <br><em>Chair: TBD</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">07:00pm - 08:10pm</p></div>
+	</div>
+<p class="header"><strong>Session 2:</strong>  <br><em>Chair: TBD</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">08:20pm - 09:20pm</p></div>
+	</div>
+<p class="header"><strong>Session 3:</strong>  <br><em>Chair: TBD</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">09:40pm - 10:40pm</p></div>
+	</div>
+<p class="header"><strong>Session 4:</strong>  <br><em>Chair: TBD</em></p>
+	<div class="row">
+	  <div class="small-3 columns"><p class="time-range schedule">10:50pm - 12:00pm</p></div>
+	</div>
 	<!--
-	
-	
-	-->
 
-
-
-
-	<!---	 
-	<p>The workshop will take place on <emph>Tuesday, September 1, 2020</emph>. The presentation slides are avaliable <a href="https://drive.google.com/drive/folders/10thjJ85Vsu5hZIV68ZyKQI80Lvf58gLG?usp=sharing">here</a>. </p>
+	<p>The workshop will take place on <emph>Tuesday, August 16, 2022</emph>.  </p>
 
 	<p class="header"><strong>Session 1:</strong> Requirements Representation and Knowledge <br><em>Chair: F. Başak Aydemir</em></p>
 	<div class="row">
@@ -253,7 +264,7 @@
 
     <hr>
     <footer>
-      &copy; 2021 Workshop on Artificial Intelligence and Requirements Engineering. All rights reserved.
+      &copy; 2022 Workshop on Artificial Intelligence and Requirements Engineering. All rights reserved.
     </footer>
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
