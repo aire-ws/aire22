@@ -75,7 +75,7 @@
 	<p><strong>The workshop is currently planned to occur on Tuesday, 16th August 2022. </strong></p>
 	<p>The times in the following program are in Melbourne(!) time (GMT+10).</p>
 
-		<p class="header"><strong>Session 1:</strong> Welcome and Keynote <br><em>Chair: TBD</em></p>
+		<p class="header"><strong>Session 1:</strong> Welcome and Keynote <br><em>Chair: Alessio Ferrari</em></p>
 	<div class="row">
 	  <div class="small-3 columns"><p class="time-range schedule">19:00 - 19:05</p></div>
 	  <div class="small-9 columns">
@@ -87,11 +87,10 @@
 	  <div class="small-9 columns">
 	    <p class="schedule"><strong>Keynote from Fabiano Dalpiaz: </strong> Requirements Conversations: A New Frontier in AI-for-RE<br/>
 	      <em>Fabiano Dalpiaz</em><br/>
-	      Discussant: TBD<br/>  
 	  </div>
 	</div>
 
-	<p class="header"><strong>Session 2:</strong> Papers <br><em>Chair: TBD</em></p>
+	<p class="header"><strong>Session 2:</strong> Papers <br><em>Chair: Alessio Ferrari, Hans-Martin Heyn</em></p>
 	<div class="row">
 	  <div class="small-3 columns"><p class="time-range schedule">20:10 - 20:30</p></div>
 	  <div class="small-9 columns">
@@ -105,13 +104,15 @@
 	    <p class="schedule">Can Requirements Engineering Support Explainable Artificial Intelligence? Towards a User-Centric Approach for Explainability Requirements<br/>
 	      <em>Umm E Habiba, Justus Bogner and Stefan Wagner </em><br/>
 	      Discussant: TBD<br/>
+		  <a href="papers/AIRE_04.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 	  
 	  <div class="small-3 columns"><p class="time-range schedule">20:50 - 21:10</p></div>
 	  <div class="small-9 columns">
 	    <p class="schedule">AI Ethics Impact Assessment based on requirement engineering<br/>
 	      <em>Izumi Nitta, Kyoko Ohashi, Satoko Shiga and Sachiko Onodera </em><br>
-	      Discussant: TBD
+	      Discussant: TBD<br/>
+		  <a href="papers/AIRE_02.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 
 	  <div class="small-3 columns"><p class="time-range schedule">21:10 - 21:20</p></div>
@@ -120,7 +121,7 @@
 	  </div>
 	</div>
 
-	<p class="header"><strong>Session 3:</strong> Keynote <br><em>Chair: TBD</em></p>
+	<p class="header"><strong>Session 3:</strong> Keynote <br><em>Chair: Hans-Martin Heyn</em></p>
 	<div class="row">
 	  <div class="small-3 columns"><p class="time-range schedule">21:20 - 22:20</p></div>
 	  <div class="small-9 columns">
@@ -134,13 +135,14 @@
 	  </div>
 	</div>
 
-	<p class="header"><strong>Session 4:</strong> Papers <br><em>Chair: TBD</em></p>
+	<p class="header"><strong>Session 4:</strong> Papers <br><em>Chair: Mehrdad Sabetzadeh</em></p>
 	<div class="row">
 	  <div class="small-3 columns"><p class="time-range schedule">22:30 - 22:50</p></div>
 	  <div class="small-9 columns">
 	    <p class="schedule">Domain Model Extraction from User-authored Scenarios and Word Embeddings<br/>
 	      <em> Yuchen Shen and Travis Breaux </em><br>
 	      Discussant: TBD<br/>
+		  <a href="papers/AIRE_03.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 	  
 	  <div class="small-3 columns"><p class="time-range schedule">22:50 - 23:10</p></div>
