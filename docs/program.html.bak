@@ -74,6 +74,7 @@
 	
 	<p><strong>The workshop is currently planned to occur on Tuesday, 16th August 2022. </strong></p>
 	<p>The times in the following program are in Melbourne(!) time (GMT+10).</p>
+	<p><strong>The password for the Zoom session is 455366 </strong></p>
 
 		<p class="header"><strong>Session 1:</strong> Welcome and Keynote <br><em>Chair: Alessio Ferrari</em></p>
 	<div class="row">
@@ -163,6 +164,7 @@
 	<div class="small-9 columns"> 
 	  <p class="header"><strong>Speaker: Dr. Fabiano Dalpiaz </strong></p>			
 	  <p><strong>Title:</strong> Requirements Conversations: A New Frontier in AI-for-RE</p>
+	  <a href="papers/fabiano_keynote.pdf" target="_blank" download> Download Slides</a>
 	</div>
 	<div class="small-3 columns"><img src="img/fabiano.jpg" width="100%"/></div>
 	
@@ -179,6 +181,7 @@
 	<div class="small-9 columns"> 
 	  <p class="header"><strong>Speaker: Dr. Jennifer Horkoff </strong></p>			
 	  <p><strong>Title:</strong> Requirements Engineering for Machine Learning:  Non-functional Requirements as Core Functions</p>
+	  <a href="papers/jennifer_keynote.pdf" target="_blank" download> Download Slides</a>
 	</div>
 	<div class="small-3 columns"><img src="img/jennifer.jpg" width="100%"/></div>
 	
