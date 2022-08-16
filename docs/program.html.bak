@@ -94,24 +94,22 @@
 	<div class="row">
 	  <div class="small-3 columns"><p class="time-range schedule">20:10 - 20:30</p></div>
 	  <div class="small-9 columns">
-	    <p class="schedule">How do Engineers Collaborate in Requirements Engineering for Machine Learning? A Systematic Review and Example Cases <br/>
-	      <em>Zhongyi Pei, Lin Liu, Chen Wang and Jianmin Wang</em><br>
-	      Discussant: TBD<br/>
+	    <p class="schedule">Requirements Engineering for Machine Learning: A Review and Reflection <br/>
+	      <em>Zhongyi Pei, Lin Liu, Chen Wang and Jianmin Wang</em>
+		  <a href="papers/AIRE_05.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 	  
 	  <div class="small-3 columns"><p class="time-range schedule">20:30 - 20:50</p></div>
 	  <div class="small-9 columns">
 	    <p class="schedule">Can Requirements Engineering Support Explainable Artificial Intelligence? Towards a User-Centric Approach for Explainability Requirements<br/>
-	      <em>Umm E Habiba, Justus Bogner and Stefan Wagner </em><br/>
-	      Discussant: TBD<br/>
+	      <em>Umm E Habiba, Justus Bogner and Stefan Wagner </em>
 		  <a href="papers/AIRE_04.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 	  
 	  <div class="small-3 columns"><p class="time-range schedule">20:50 - 21:10</p></div>
 	  <div class="small-9 columns">
 	    <p class="schedule">AI Ethics Impact Assessment based on requirement engineering<br/>
-	      <em>Izumi Nitta, Kyoko Ohashi, Satoko Shiga and Sachiko Onodera </em><br>
-	      Discussant: TBD<br/>
+	      <em>Izumi Nitta, Kyoko Ohashi, Satoko Shiga and Sachiko Onodera </em>
 		  <a href="papers/AIRE_02.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 
@@ -140,16 +138,14 @@
 	  <div class="small-3 columns"><p class="time-range schedule">22:30 - 22:50</p></div>
 	  <div class="small-9 columns">
 	    <p class="schedule">Domain Model Extraction from User-authored Scenarios and Word Embeddings<br/>
-	      <em> Yuchen Shen and Travis Breaux </em><br>
-	      Discussant: TBD<br/>
+	      <em> Yuchen Shen and Travis Breaux </em>
 		  <a href="papers/AIRE_03.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 	  
 	  <div class="small-3 columns"><p class="time-range schedule">22:50 - 23:10</p></div>
 	  <div class="small-9 columns">
 	    <p class="schedule">Classification of Issue Discussions in Open Source Projects<br/>
-	      <em>Şevval Mehder and Fatma Başak Aydemir </em><br>
-	      Discussant: TBD<br/>
+	      <em>Şevval Mehder and Fatma Başak Aydemir </em>
 		  <a href="papers/AIRE_01.pdf" target="_blank" download> Download Paper</a>
 	  </div>
 
